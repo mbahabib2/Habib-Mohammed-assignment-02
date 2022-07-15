@@ -20,7 +20,7 @@ let sum = 0;
     {
       sum += arrayOfNumbers[i];
     }
-  return sum;
+  return sum
 }
 assignment.sumOfNumbers = sumOfNumbers;
 
